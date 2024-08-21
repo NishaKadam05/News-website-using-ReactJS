@@ -1,0 +1,61 @@
+.header{
+    display: inline;
+    margin-left: 580px;
+}
+
+.header li{
+    margin: 20px;
+}
+
+.header button{
+    width: 80px;
+    height: 30px;
+    color: white;
+}
+
+.btn-1{
+    background-color: red;
+    border: 1px solid red;
+}
+
+.btn-1:hover{
+    background-color: rgb(166, 32, 32);
+    border: 1px solid rgb(166, 32, 32);
+}
+
+.btn-2{
+    background-color: rgb(39, 91, 211);
+    border: 1px solid rgb(39, 91, 211);
+}
+
+.btn-2:hover{
+    background-color: rgb(27, 61, 139);
+    border: 1px solid rgb(27, 61, 139);
+}
+
+.heading{
+    text-align: center;
+    border-bottom: 3px solid;
+    border-top: 3px solid;
+    margin: 10px;
+}
+
+.nav{
+    background-color: rgb(236, 235, 235);
+    padding: 1px;
+}
+
+.nav-bar{
+    text-align: center;
+}
+
+.nav-bar li{
+    display: inline;
+    margin: 10px;
+}
+
+.nav-bar li:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    color: red;
+}

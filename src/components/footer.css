@@ -1,0 +1,69 @@
+.footer{
+    padding: 10px;
+    background-color: rgb(236, 235, 235);
+    margin-top: 100px;
+}
+
+.footer-head li{
+    display: inline;
+    margin: 10px;
+}
+
+.text{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.playstore img{
+    width: 150px;
+    margin-left: 550px;
+}
+
+.appstore img{
+    width: 150px;
+}
+
+.footer-sections{
+    display: flex;
+    gap: 50px;
+    padding:0px 50px;
+}
+
+.head{
+    margin-top: 40px;
+}
+
+.footer-sec{
+    width: 500px;
+    border-top: 5px solid;
+}
+
+.footer-sec h3:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.footer-sec p:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    font-size: 17px;
+}
+
+.footer-icons{
+    margin-top: 40px;
+}
+
+.footer-icons li{
+    display: inline;
+    margin: 5px;
+    font-size: 20px;
+    border: 1px solid white;
+    padding: 8px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.terms{
+    margin: 40px;
+}
