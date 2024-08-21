@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/News-website-using-ReactJS/static/css/main.a2d6f7ec.css",
+    "main.js": "/News-website-using-ReactJS/static/js/main.0a5b335c.js",
+    "static/media/news.mp4": "/News-website-using-ReactJS/static/media/news.b5099b1a8fc055bcb8cb.mp4",
+    "static/media/protest.jpg": "/News-website-using-ReactJS/static/media/protest.36067424b26b8cbe3991.jpg",
+    "static/media/inflation.jpg": "/News-website-using-ReactJS/static/media/inflation.062e51e1c04e4cd15e94.jpg",
+    "static/media/playstore.png": "/News-website-using-ReactJS/static/media/playstore.269b9623cbd098802da2.png",
+    "static/media/independ.jpg": "/News-website-using-ReactJS/static/media/independ.3b1b4d68795bc0b46b41.jpg",
+    "static/media/appstore.png": "/News-website-using-ReactJS/static/media/appstore.69cfe4f22d7a062caf51.png",
+    "static/media/olyympics.avif": "/News-website-using-ReactJS/static/media/olyympics.1c6f60cde2a45620f93a.avif",
+    "static/media/corporate.avif": "/News-website-using-ReactJS/static/media/corporate.b043ad8ef4e90bcf47e7.avif",
+    "index.html": "/News-website-using-ReactJS/index.html",
+    "main.a2d6f7ec.css.map": "/News-website-using-ReactJS/static/css/main.a2d6f7ec.css.map",
+    "main.0a5b335c.js.map": "/News-website-using-ReactJS/static/js/main.0a5b335c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2d6f7ec.css",
+    "static/js/main.0a5b335c.js"
+  ]
+}
